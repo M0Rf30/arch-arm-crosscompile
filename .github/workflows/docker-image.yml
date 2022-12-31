@@ -32,7 +32,7 @@ jobs:
         with:
           images: m0rf30/arch-arm-crosscompile*
           labels: |
-            maintainer=Yap
+            maintainer=M0Rf30
             org.opencontainers.image.title=arch-arm-crosscompile
             org.opencontainers.image.description=armv6/v7/v8 cross-compiling toolchain
             org.opencontainers.image.vendor=M0Rf30
